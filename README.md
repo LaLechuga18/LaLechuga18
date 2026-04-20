@@ -2,8 +2,6 @@
 
 CS Student @ Universidad de Guadalajara (CUCEI) · Expected graduation: Jan 2027
 
-I build Python tools, automate things, and explore data processing and systems programming. Currently sharpening my skills for tech interviews.
-
 ---
 
 ### 🛠️ Tech Stack
